@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MAGS\\Documents\\GitHub\\BilbasenKonsol\\BilbasenKonsol.csproj": {}
+    "C:\\Users\\Ellyas\\Documents\\GitHub\\bilbasenkonsol-donzazi\\BilbasenKonsol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MAGS\\Documents\\GitHub\\BilbasenKonsol\\BilbasenKonsol.csproj": {
+    "C:\\Users\\Ellyas\\Documents\\GitHub\\bilbasenkonsol-donzazi\\BilbasenKonsol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MAGS\\Documents\\GitHub\\BilbasenKonsol\\BilbasenKonsol.csproj",
+        "projectUniqueName": "C:\\Users\\Ellyas\\Documents\\GitHub\\bilbasenkonsol-donzazi\\BilbasenKonsol.csproj",
         "projectName": "BilbasenKonsol",
-        "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\BilbasenKonsol\\BilbasenKonsol.csproj",
-        "packagesPath": "C:\\Users\\MAGS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MAGS\\Documents\\GitHub\\BilbasenKonsol\\obj\\",
+        "projectPath": "C:\\Users\\Ellyas\\Documents\\GitHub\\bilbasenkonsol-donzazi\\BilbasenKonsol.csproj",
+        "packagesPath": "C:\\Users\\Ellyas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ellyas\\Documents\\GitHub\\bilbasenkonsol-donzazi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\MAGS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Ellyas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Class Domain Models.csproj": {
-                "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Class Domain Models.csproj"
+              "C:\\Users\\Ellyas\\Documents\\GitHub\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "C:\\Users\\Ellyas\\Documents\\GitHub\\ClassLibrary1\\ClassLibrary1.csproj"
               }
             }
           }
@@ -68,21 +63,17 @@
         }
       }
     },
-    "C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Class Domain Models.csproj": {
+    "C:\\Users\\Ellyas\\Documents\\GitHub\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Class Domain Models.csproj",
-        "projectName": "Class Domain Models",
-        "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Class Domain Models.csproj",
-        "packagesPath": "C:\\Users\\MAGS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\obj\\",
+        "projectUniqueName": "C:\\Users\\Ellyas\\Documents\\GitHub\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "C:\\Users\\Ellyas\\Documents\\GitHub\\ClassLibrary1\\ClassLibrary1.csproj",
+        "packagesPath": "C:\\Users\\Ellyas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ellyas\\Documents\\GitHub\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\MAGS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Ellyas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,7 +81,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

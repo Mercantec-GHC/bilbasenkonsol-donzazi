@@ -17,3 +17,11 @@ C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\Class Domain Mode
 C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\Class Domain Models.pdb
 C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.csproj.AssemblyReference.cache
 C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.csproj.CopyComplete
+C:\Users\Ellyas\Documents\GitHub\bilbasenkonsol-donzazi\obj\Debug\net8.0\BilbasenKonsol.dll
+C:\Users\Ellyas\Documents\GitHub\bilbasenkonsol-donzazi\obj\Debug\net8.0\refint\BilbasenKonsol.dll
+C:\Users\Ellyas\Documents\GitHub\bilbasenkonsol-donzazi\obj\Debug\net8.0\BilbasenKonsol.pdb
+C:\Users\Ellyas\Documents\GitHub\bilbasenkonsol-donzazi\obj\Debug\net8.0\BilbasenKonsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellyas\Documents\GitHub\bilbasenkonsol-donzazi\obj\Debug\net8.0\BilbasenKonsol.AssemblyInfoInputs.cache
+C:\Users\Ellyas\Documents\GitHub\bilbasenkonsol-donzazi\obj\Debug\net8.0\BilbasenKonsol.AssemblyInfo.cs
+C:\Users\Ellyas\Documents\GitHub\bilbasenkonsol-donzazi\obj\Debug\net8.0\BilbasenKonsol.csproj.CoreCompileInputs.cache
+C:\Users\Ellyas\Documents\GitHub\bilbasenkonsol-donzazi\obj\Debug\net8.0\BilbasenKonsol.sourcelink.json
